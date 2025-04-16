@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
+![Guide](Andry-tumblr-detail-demo.gif).
 
 ## Notes
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 ## License
 
-    Copyright 2025 Andry
+    Copyright 2025 Andry Rakotonjanabelo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
